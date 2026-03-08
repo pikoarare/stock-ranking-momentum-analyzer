@@ -1,6 +1,10 @@
 # Stock Ranking Analyzer
+Analyze stock ranking changes and detect momentum signals using ranking comparison.
+
+This tool helps identify sudden market activity from ranking data.
 
 Stock Ranking Analyzer is a Python-based toolset for analyzing stock ranking changes and momentum.
+
 It helps identify stocks with sudden ranking movements using ranking comparison and momentum analysis.
 <img width="1000" height="632" alt="ee8" src="https://github.com/user-attachments/assets/d4e8d83d-e4ab-4623-81d0-6a93bb5f7a35" />
 <img width="640" height="360" alt="ee2" src="https://github.com/user-attachments/assets/619d9639-924e-4f1c-9340-b2be6aca18ff" />
@@ -57,7 +61,7 @@ Excel output includes:
 ## Download
 
 Full version available here
-https://gumroad.com/xxxxx
+https://pikoarare.gumroad.com/l/vhlxvg
 
 ---
 

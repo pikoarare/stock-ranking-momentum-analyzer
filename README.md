@@ -1,4 +1,6 @@
-# Stock Ranking Analyzer
+# Stock Ranking Momentum Analyzer
+Full version available here : https://pikoarare.gumroad.com/l/vhlxvg
+
 Analyze stock ranking changes and detect momentum signals using ranking comparison.
 
 This tool helps identify sudden market activity from ranking data.

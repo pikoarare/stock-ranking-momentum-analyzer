@@ -10,7 +10,8 @@ Stock Ranking Analyzer is a Python-based toolset for analyzing stock ranking cha
 It helps identify stocks with sudden ranking movements using ranking comparison and momentum analysis.
 <img width="1000" height="632" alt="ee8" src="https://github.com/user-attachments/assets/d4e8d83d-e4ab-4623-81d0-6a93bb5f7a35" />
 <img width="640" height="360" alt="ee2" src="https://github.com/user-attachments/assets/619d9639-924e-4f1c-9340-b2be6aca18ff" />
-<img width="626" height="602" alt="kabu_Compare_1_2" src="https://github.com/user-attachments/assets/c326373d-0c48-4420-a23b-ad9c55dc9018" />
+<img width="623" height="626" alt="kabu_Compare_1_Eng" src="https://github.com/user-attachments/assets/084d7cc2-7dc5-4ba2-8e8e-6b15ae627510" />
+
 
 ---
 

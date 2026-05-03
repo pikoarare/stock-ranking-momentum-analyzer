@@ -8,9 +8,12 @@ This tool helps identify sudden market activity from ranking data.
 Stock Ranking Analyzer is a Python-based toolset for analyzing stock ranking changes and momentum.
 
 It helps identify stocks with sudden ranking movements using ranking comparison and momentum analysis.
-<img width="1000" height="632" alt="ee8" src="https://github.com/user-attachments/assets/d4e8d83d-e4ab-4623-81d0-6a93bb5f7a35" />
-<img width="640" height="360" alt="ee2" src="https://github.com/user-attachments/assets/619d9639-924e-4f1c-9340-b2be6aca18ff" />
-<img width="623" height="626" alt="kabu_Compare_1_Eng" src="https://github.com/user-attachments/assets/084d7cc2-7dc5-4ba2-8e8e-6b15ae627510" />
+<center><img width="1000" height="632" alt="ee8" src="https://github.com/user-attachments/assets/d4e8d83d-e4ab-4623-81d0-6a93bb5f7a35" />
+<img width="844" height="476" alt="kabu_Eng_1" src="https://github.com/user-attachments/assets/2fc2af7b-53c4-4eff-908c-7aa203a72b62" />
+<img width="1280" height="720" alt="kabu_1_gum" src="https://github.com/user-attachments/assets/1ceb9427-0c3d-4b80-b7ab-698571adb863" />
+<img width="1280" height="720" alt="kabu_Compare_4" src="https://github.com/user-attachments/assets/90c21a9b-6d0f-4d31-8ab4-c013c8c531a2" />
+<img width="623" height="630" alt="kabu_Compare_1_Eng" src="https://github.com/user-attachments/assets/47488f28-c830-43a4-8290-7bfdbb9e170e" />
+</center>
 
 
 ---
@@ -48,6 +51,7 @@ Features
 - Momentum calculation
 - Status classification
 - Excel output with highlighted signals
+- generate simple images based on selected status from comparison results
 
 ---
 
@@ -58,6 +62,22 @@ Excel output includes:
 • Rank change 
 • Momentum score 
 • Status signals (breakout, surge, drop, etc.)
+
+Image output:
+
+Select status to generate images of Top 10 based on status results.
+You can generate simple images of top 10 based on selected status results
+from comparison results for easy sharing and visualization.
+
+Status signals of image
+
+- BreakOut
+- Out of Rank
+- Surge
+- Rebound
+- Crash
+- Hot
+- Unchanged
 
 ---
 

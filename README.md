@@ -29,7 +29,8 @@ It helps identify stocks with sudden ranking movements using ranking comparison 
 • Collect stock ranking data 
 • Compare rank changes between datasets 
 • Detect momentum signals 
-• Export analysis results to Excel 
+• Export analysis results to Excel or CSV
+• Generate image of top 10 based on selected status from comparison results
 
 ---
 

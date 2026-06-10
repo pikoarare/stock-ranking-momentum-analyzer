@@ -24,7 +24,7 @@ It helps identify stocks with sudden ranking movements using ranking comparison 
 <br><br>
 <img width="1280" height="590" alt="kabu_Compare_4_note" src="https://github.com/user-attachments/assets/4077a1c4-5507-4588-80e7-c87ee1cd4f83" />
  <br><br>
-<img width="623" height="630" alt="kabu_Compare_1_Eng" src="https://github.com/user-attachments/assets/ce7aa899-a2ba-4e73-a8f2-ac4b6020296b" />
+<img width="1280" height="720" alt="株_gum2" src="https://github.com/user-attachments/assets/b59e0d97-36f5-4389-91ab-1c85a2386649" />
 <br><br>
 <img width="989" height="404" alt="kabu_Compare_3" src="https://github.com/user-attachments/assets/c26f6c68-96f2-4640-9f63-ebf096763367" />
 </center>

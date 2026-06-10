@@ -35,11 +35,13 @@ It helps identify stocks with sudden ranking movements using ranking comparison 
 
 ## Features
 
-• Collect stock ranking data 
-• Compare rank changes between datasets 
-• Detect momentum signals 
-• Export analysis results to Excel or CSV
-• Generate image of top 10 based on selected status from comparison results
+• Collect stock ranking data<br>
+• Compare rank changes between datasets<br>
+• Detect momentum signals<br>
+• Identify Rising Interest, Sharp Rise, Surge, Rebound, Crash and other ranking movement patterns<br>
+• Export analysis results to Excel or CSV<br>
+• Generate Top 10 images based on selected status results<br>
+• Flexible output options (Excel / CSV only, Images only, or Both)<br>
 
 ---
 
@@ -49,11 +51,10 @@ It helps identify stocks with sudden ranking movements using ranking comparison 
 
 Collect stock ranking data from ranking pages and export to Excel or CSV.
 
-Features
-
-- Multiple ranking categories
-- Automatic data formatting
-- Excel / CSV export
+ Features
+ Multiple ranking categories<br>
+ Automatic data formatting<br>
+ Excel / CSV export<br>
 
 ---
 
@@ -63,11 +64,12 @@ Compare two ranking datasets and analyze changes.
 
 Features
 
-- Rank change detection
-- Momentum calculation
-- Status classification
-- Excel output with highlighted signals
-- generate simple images based on selected status from comparison results
+• Rank change detection<br>
+• Momentum calculation<br>
+• Status classification<br>
+• Rising Interest detection<br>
+• Excel output with highlighted signals<br>
+• Generate Top 10 images based on selected status results<br>
 
 ---
 
@@ -75,25 +77,26 @@ Features
 
 Excel output includes:
 
-• Rank change 
-• Momentum score 
-• Status signals (breakout, surge, drop, etc.)
+• Rank Change<br>
+• Momentum Score<br>
+• Daily Change<br>
+• Daily Change (%)<br>
+• Status Classification<br>
 
 Image output:
 
-Select status to generate images of Top 10 based on status results.
-You can generate simple images of top 10 based on selected status results
-from comparison results for easy sharing and visualization.
+Generate Top 10 images from selected status results for analysis and sharing.
+Supported image categories:
 
-Status signals of image
-
-- BreakOut
-- Out of Rank
-- Surge
-- Rebound
-- Crash
-- Hot
-- Unchanged
+•Rising Interest<br>
+•Sharp Rise<br>
+•BreakOut<br>
+•Out of Rank<br>
+•Surge<br>
+•Rebound<br>
+•Crash<br>
+•Hot<br>
+•Unchanged<br>
 
 ---
 

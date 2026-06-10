@@ -8,16 +8,25 @@ This tool helps identify sudden market activity from ranking data.
 Stock Ranking Analyzer is a Python-based toolset for analyzing stock ranking changes and momentum.
 
 It helps identify stocks with sudden ranking movements using ranking comparison and momentum analysis.
-<center><img width="1000" height="632" alt="ee8" src="https://github.com/user-attachments/assets/d4e8d83d-e4ab-4623-81d0-6a93bb5f7a35" />
-  <br>
-<img width="844" height="476" alt="kabu_Eng_1" src="https://github.com/user-attachments/assets/2fc2af7b-53c4-4eff-908c-7aa203a72b62" />
-  <br>
-<img width="1280" height="720" alt="kabu_1_gum" src="https://github.com/user-attachments/assets/1ceb9427-0c3d-4b80-b7ab-698571adb863" />
-  <br>
-<img width="1280" height="720" alt="kabu_Compare_4" src="https://github.com/user-attachments/assets/90c21a9b-6d0f-4d31-8ab4-c013c8c531a2" />
-  <br>
-<img width="623" height="630" alt="kabu_Compare_1_Eng" src="https://github.com/user-attachments/assets/47488f28-c830-43a4-8290-7bfdbb9e170e" />
-  <br>
+<b>
+
+■Version 1.5 Released (Jun 10, 2026)<b><br>
+✔ Rising Interest status added<br>
+✔ Sharp Rise image generation<br>
+✔ Flexible export options<br>
+✔ Improved Excel output<br>
+
+<center>
+  <img width="1286" height="720" alt="株_gum1" src="https://github.com/user-attachments/assets/cb17bc59-4bcb-4392-96a4-ec14f2ebd538" />
+  <br><br>
+<img width="1280" height="720" alt="株_gum5" src="https://github.com/user-attachments/assets/a4eb98ac-b101-4926-9d89-c0ea995399e1" />
+<br><br>
+<img width="1280" height="720" alt="株_gum4" src="https://github.com/user-attachments/assets/7a394a5a-0357-4af9-bbe3-7e53c4bd7ffc" />
+<br><br>
+<img width="1280" height="590" alt="kabu_Compare_4_note" src="https://github.com/user-attachments/assets/4077a1c4-5507-4588-80e7-c87ee1cd4f83" />
+ <br><br>
+<img width="623" height="630" alt="kabu_Compare_1_Eng" src="https://github.com/user-attachments/assets/ce7aa899-a2ba-4e73-a8f2-ac4b6020296b" />
+<br><br>
 <img width="989" height="404" alt="kabu_Compare_3" src="https://github.com/user-attachments/assets/c26f6c68-96f2-4640-9f63-ebf096763367" />
 </center>
 

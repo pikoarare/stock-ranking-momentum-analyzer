@@ -51,10 +51,11 @@ It helps identify stocks with sudden ranking movements using ranking comparison 
 
 Collect stock ranking data from ranking pages and export to Excel or CSV.
 
- Features
- Multiple ranking categories<br>
- Automatic data formatting<br>
- Excel / CSV export<br>
+  Features:<br>
+  
+ • Multiple ranking categories<br>
+• Automatic data formatting<br>
+ • Excel / CSV export<br>
 
 ---
 
@@ -62,7 +63,7 @@ Collect stock ranking data from ranking pages and export to Excel or CSV.
 
 Compare two ranking datasets and analyze changes.
 
-Features
+Features:
 
 • Rank change detection<br>
 • Momentum calculation<br>
@@ -88,15 +89,15 @@ Image output:
 Generate Top 10 images from selected status results for analysis and sharing.
 Supported image categories:
 
-•Rising Interest<br>
-•Sharp Rise<br>
-•BreakOut<br>
-•Out of Rank<br>
-•Surge<br>
-•Rebound<br>
-•Crash<br>
-•Hot<br>
-•Unchanged<br>
+• Rising Interest<br>
+• Sharp Rise<br>
+• BreakOut<br>
+• Out of Rank<br>
+• Surge<br>
+• Rebound<br>
+• Crash<br>
+• Hot<br>
+• Unchanged<br>
 
 ---
 

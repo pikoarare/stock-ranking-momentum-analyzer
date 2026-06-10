@@ -1,3 +1,9 @@
+<b>■Version 1.5 Released (Jun 10, 2026)<b><br>
+✔ Rising Interest status added<br>
+✔ Sharp Rise image generation<br>
+✔ Flexible export options<br>
+✔ Improved Excel output<br>
+
 # Stock Ranking Momentum Analyzer
 Full version available here : https://pikoarare.gumroad.com/l/vhlxvg
 
@@ -8,13 +14,6 @@ This tool helps identify sudden market activity from ranking data.
 Stock Ranking Analyzer is a Python-based toolset for analyzing stock ranking changes and momentum.
 
 It helps identify stocks with sudden ranking movements using ranking comparison and momentum analysis.
-<b>
-
-■Version 1.5 Released (Jun 10, 2026)<b><br>
-✔ Rising Interest status added<br>
-✔ Sharp Rise image generation<br>
-✔ Flexible export options<br>
-✔ Improved Excel output<br>
 
 <center>
   <img width="1286" height="720" alt="株_gum1" src="https://github.com/user-attachments/assets/cb17bc59-4bcb-4392-96a4-ec14f2ebd538" />
